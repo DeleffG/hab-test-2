@@ -1,0 +1,22 @@
+body {
+  background-image: url(https://i.imgur.com/4UXSdbS.jpg);
+  background-repeat: no-repeat;
+  font-family: "Roboto";
+  font-size: 2.3em;
+  padding-top: 1em;
+  text-align: center;
+}
+
+h1 {
+  margin: 15px;
+}
+
+button {
+  font-family: "Roboto";
+  font-size: 0.7em;
+  border-radius: 20px;
+  border: none;
+  width: 110px;
+  padding: 0.5rem;
+  background-color: orange;
+}
